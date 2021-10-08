@@ -22,8 +22,8 @@ sections:
           - title: Hero Dropdown Element Title
             url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: PROGRAMMES AND INITIATIVES
+      subtitle: "Highlights "
       description: Seize new opportunities to stay relevant in today's new economy
       button: OPPORTUNITIES
       url: /faq/
