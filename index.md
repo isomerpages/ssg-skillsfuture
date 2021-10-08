@@ -7,14 +7,20 @@ permalink: /
 notification: Downtime schedule
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: SkillsFuture Singapore
+      subtitle: "Lifelong learning and you "
       background: /images/hero-banner.png
       dropdown:
         title: What are you looking for?
         options:
           - title: "claim skillsfuture credit "
-            url: find courses
+            url: www.myskillsfuture.gov.sg
+          - title: Find courses
+            url: "www.myskillsfuture.gov.sg "
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
