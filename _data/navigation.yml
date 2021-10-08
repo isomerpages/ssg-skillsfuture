@@ -8,3 +8,5 @@ links:
     collection: example-collection
   - title: JOB-SKILLS INSIGHTS
     resource_room: true
+  - title: Students
+    collection: students
