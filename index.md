@@ -24,8 +24,8 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      description: Seize new opportunities to stay relevant in today's new economy
+      button: OPPORTUNITIES
       url: /faq/
   - resources:
       title: Media
