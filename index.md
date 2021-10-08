@@ -31,4 +31,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: The Next Bound of SkillsFuture
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: View More
+      url: https://www.skillsfuture.gov.sg/nextbound
+      image: /images/hero-banner.png
+      alt: Image alt text
 ---
